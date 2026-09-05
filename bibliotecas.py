@@ -1,3 +1,4 @@
+
 class jogador:
     def __init__(self,vida = 1000):
         self.vida = vida
